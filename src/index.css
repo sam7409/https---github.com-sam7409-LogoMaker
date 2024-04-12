@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px; /* Change the width as desired */
+}
+
+/* Target the scrollbar handle or thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #ccc; /* Change the color of the scrollbar handle */
+  border-radius: 5px; /* Add rounded corners to the scrollbar handle */
+}

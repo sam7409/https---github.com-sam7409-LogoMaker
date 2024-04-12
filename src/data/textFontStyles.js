@@ -1,0 +1,20 @@
+export const textFontStyles = [
+  {
+    id: 1,
+    fontFamily: "Arial",
+  },
+  { id: 2, fontFamily: "Verdana" },
+  { id: 3, fontFamily: "Serif" },
+  { id: 4, fontFamily: "Cursive" },
+  { id: 5, fontFamily: "Fantasy" },
+  { id: 6, fontFamily: "Monospace" },
+  { id: 7, fontFamily: "Helvetica" },
+  { id: 8, fontFamily: "Arial Black" },
+  { id: 9, fontFamily: "Tahoma" },
+  { id: 10, fontFamily: "Impact" },
+  { id: 11, fontFamily: "Gill Sans" },
+  { id: 12, fontFamily: "Times New Roman" },
+  { id: 13, fontFamily: "Georgia" },
+  { id: 14, fontFamily: "Palatino" },
+  { id: 15, fontFamily: "Baskerville" },
+];
